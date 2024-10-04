@@ -10,7 +10,7 @@ This project predicts house prices based on various features such as location, n
 - Jupyter Notebook (for data exploration and modeling)
 
 ## How to Run Locally:
-1. Clone the repository: https://github.com/your-username/house-price-prediction.git
+1. Clone the repository: https://github.com/Lingess-R/house-price-prediction.git
 2. Install the required dependencies:
 3. Run the Flask server:
 4. Open your browser and navigate to:
