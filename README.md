@@ -28,7 +28,7 @@ The main aim of this project is to help users get an estimate of house prices ba
 
 
 ## How to Run Locally:
-1. Clone the repository:https://github.com/your-username/house-price-prediction.git
+1. Clone the repository:https://github.com/Lingess-R/house-price-prediction.git
 2. Install the required dependencies:
 3. Run the Flask server: python server.py
 4. Open your browser and navigate to:http://127.0.0.1:5000/
